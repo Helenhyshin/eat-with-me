@@ -1,11 +1,7 @@
 import "./Title.css";
 
 function Title() {
-  return (
-    <div className="title">
-      <h1>Hello from Title</h1>
-    </div>
-  );
+  return <div className="title"></div>;
 }
 
 export default Title;
